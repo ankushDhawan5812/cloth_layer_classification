@@ -1,0 +1,24 @@
+[0.452s] Invoking command in '/home/armlab/Documents/soft_manipulation/src/vtnf_camera': PYTHONPATH=/home/armlab/Documents/soft_manipulation/build/vtnf_camera/prefix_override:/home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vtnf_camera build --build-base /home/armlab/Documents/soft_manipulation/build/vtnf_camera/build install --record /home/armlab/Documents/soft_manipulation/build/vtnf_camera/install.log --single-version-externally-managed install_data
+[0.577s] running egg_info
+[0.577s] writing ../../build/vtnf_camera/vtnf_camera.egg-info/PKG-INFO
+[0.577s] writing dependency_links to ../../build/vtnf_camera/vtnf_camera.egg-info/dependency_links.txt
+[0.577s] writing entry points to ../../build/vtnf_camera/vtnf_camera.egg-info/entry_points.txt
+[0.577s] writing requirements to ../../build/vtnf_camera/vtnf_camera.egg-info/requires.txt
+[0.577s] writing top-level names to ../../build/vtnf_camera/vtnf_camera.egg-info/top_level.txt
+[0.578s] reading manifest file '../../build/vtnf_camera/vtnf_camera.egg-info/SOURCES.txt'
+[0.578s] writing manifest file '../../build/vtnf_camera/vtnf_camera.egg-info/SOURCES.txt'
+[0.578s] running build
+[0.578s] running build_py
+[0.579s] running install
+[0.579s] running install_lib
+[0.580s] running install_data
+[0.580s] running install_egg_info
+[0.581s] removing '/home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/python3.10/site-packages/vtnf_camera-0.0.0-py3.10.egg-info' (and everything under it)
+[0.581s] Copying ../../build/vtnf_camera/vtnf_camera.egg-info to /home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/python3.10/site-packages/vtnf_camera-0.0.0-py3.10.egg-info
+[0.581s] running install_scripts
+[0.592s] Installing cam_pub script to /home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/vtnf_camera
+[0.593s] Installing capture script to /home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/vtnf_camera
+[0.593s] Installing dtv2_cam_pub script to /home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/vtnf_camera
+[0.593s] Installing flag_monitor_node script to /home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/vtnf_camera
+[0.593s] writing list of installed files to '/home/armlab/Documents/soft_manipulation/build/vtnf_camera/install.log'
+[0.606s] Invoked command in '/home/armlab/Documents/soft_manipulation/src/vtnf_camera' returned '0': PYTHONPATH=/home/armlab/Documents/soft_manipulation/build/vtnf_camera/prefix_override:/home/armlab/Documents/soft_manipulation/install/vtnf_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vtnf_camera build --build-base /home/armlab/Documents/soft_manipulation/build/vtnf_camera/build install --record /home/armlab/Documents/soft_manipulation/build/vtnf_camera/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+source;share/dynamixel_fingers/hook/pythonpath.ps1
+source;share/dynamixel_fingers/hook/pythonpath.dsv
+source;share/dynamixel_fingers/hook/pythonpath.sh
+source;share/dynamixel_fingers/hook/ament_prefix_path.ps1
+source;share/dynamixel_fingers/hook/ament_prefix_path.dsv
+source;share/dynamixel_fingers/hook/ament_prefix_path.sh

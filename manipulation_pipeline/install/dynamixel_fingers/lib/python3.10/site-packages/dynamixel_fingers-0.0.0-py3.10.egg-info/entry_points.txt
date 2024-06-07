@@ -1,0 +1,6 @@
+[console_scripts]
+depth_vid_saver = dynamixel_fingers.depth_vid_saver:main
+optical_flow_ros = dynamixel_fingers.optical_flow_ros:main
+rubbing_motion = dynamixel_fingers.rubbing_motion:main
+save_wrench_data = dynamixel_fingers.save_wrench_data:main
+

@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/PKG-INFO
+writing dependency_links to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/dependency_links.txt
+writing entry points to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/entry_points.txt
+writing requirements to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/requires.txt
+writing top-level names to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/top_level.txt
+reading manifest file '../../build/dynamixel_fingers/dynamixel_fingers.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/dynamixel_fingers/dynamixel_fingers.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/python3.10/site-packages/dynamixel_fingers-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/dynamixel_fingers/dynamixel_fingers.egg-info to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/python3.10/site-packages/dynamixel_fingers-0.0.0-py3.10.egg-info
+running install_scripts
+Installing depth_vid_saver script to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/dynamixel_fingers
+Installing optical_flow_ros script to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/dynamixel_fingers
+Installing rubbing_motion script to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/dynamixel_fingers
+Installing save_wrench_data script to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/dynamixel_fingers
+writing list of installed files to '/home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/install.log'

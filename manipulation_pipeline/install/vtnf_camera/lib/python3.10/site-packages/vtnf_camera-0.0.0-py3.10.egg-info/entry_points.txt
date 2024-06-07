@@ -1,0 +1,6 @@
+[console_scripts]
+cam_pub = vtnf_camera.cam_pub:main
+capture = vtnf_camera.capture:main
+dtv2_cam_pub = vtnf_camera.dtv2_cam_pub:main
+flag_monitor_node = vtnf_camera.flag_monitor_node:main
+

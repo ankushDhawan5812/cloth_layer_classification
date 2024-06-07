@@ -1,0 +1,23 @@
+[0.452s] Invoking command in '/home/armlab/Documents/soft_manipulation/src/dynamixel_fingers': PYTHONPATH=/home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/prefix_override:/home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/dynamixel_fingers build --build-base /home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/build install --record /home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/install.log --single-version-externally-managed install_data
+[0.571s] running egg_info
+[0.571s] writing ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/PKG-INFO
+[0.571s] writing dependency_links to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/dependency_links.txt
+[0.571s] writing entry points to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/entry_points.txt
+[0.571s] writing requirements to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/requires.txt
+[0.571s] writing top-level names to ../../build/dynamixel_fingers/dynamixel_fingers.egg-info/top_level.txt
+[0.572s] reading manifest file '../../build/dynamixel_fingers/dynamixel_fingers.egg-info/SOURCES.txt'
+[0.572s] adding license file 'LICENSE'
+[0.572s] writing manifest file '../../build/dynamixel_fingers/dynamixel_fingers.egg-info/SOURCES.txt'
+[0.573s] running build
+[0.573s] running build_py
+[0.573s] running install
+[0.573s] running install_lib
+[0.574s] running install_data
+[0.574s] running install_egg_info
+[0.574s] removing '/home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/python3.10/site-packages/dynamixel_fingers-0.0.0-py3.10.egg-info' (and everything under it)
+[0.575s] Copying ../../build/dynamixel_fingers/dynamixel_fingers.egg-info to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/python3.10/site-packages/dynamixel_fingers-0.0.0-py3.10.egg-info
+[0.575s] running install_scripts
+[0.586s] Installing optical_flow_ros script to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/dynamixel_fingers
+[0.586s] Installing rubbing_motion script to /home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/dynamixel_fingers
+[0.586s] writing list of installed files to '/home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/install.log'
+[0.599s] Invoked command in '/home/armlab/Documents/soft_manipulation/src/dynamixel_fingers' returned '0': PYTHONPATH=/home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/prefix_override:/home/armlab/Documents/soft_manipulation/install/dynamixel_fingers/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/dynamixel_fingers build --build-base /home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/build install --record /home/armlab/Documents/soft_manipulation/build/dynamixel_fingers/install.log --single-version-externally-managed install_data
