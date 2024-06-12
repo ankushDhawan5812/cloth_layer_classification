@@ -1,4 +1,5 @@
-# CS231N Final Project Code Repository: Manipulation of Soft Cloths using DenseTact Optical Tactile Sensors
+# CS231N Final Project Code Repository
+## Manipulation of Soft Cloths using DenseTact Optical Tactile Sensors
 
 data_preprocessing: contains the preprocessing scripts used before layer classification
 
